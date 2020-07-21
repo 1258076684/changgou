@@ -15,6 +15,25 @@
     <description>
         畅购商城各大微服务父工程
     </description>
+    <modules>
+        <module>changgou-service-goods</module>
+    </modules>
 
+    <!--依赖-->
+    <dependencies>
+        <dependency>
+            <groupId>com.changgou</groupId>
+            <artifactId>changgou-common-db</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
+        <!--依赖-->
+        <dependency>
+            <groupId>com.changgou</groupId>
+            <artifactId>changgou-service-goods-api</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
+    </dependencies>
 
 </project>
