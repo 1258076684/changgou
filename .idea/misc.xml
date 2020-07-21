@@ -7,11 +7,18 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/changegou-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/changegou-parent/changgou-service-api/changgou-service-goods-api/pom.xml" />
+        <option value="$PROJECT_DIR$/changegou-parent/changgou-common/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
-        <option value="$PROJECT_DIR$/changegou-parent/changgou-service-api/changgou-service-goods-api/pom.xml" />
+        <option value="$PROJECT_DIR$/changegou-parent/changgou-common-db/pom.xml" />
+        <option value="$PROJECT_DIR$/changegou-parent/changgou-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/changegou-parent/changgou-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/changegou-parent/changgou-service-api/pom.xml" />
+        <option value="$PROJECT_DIR$/changegou-parent/changgou-service/pom.xml" />
+        <option value="$PROJECT_DIR$/changegou-parent/changgou-web/pom.xml" />
       </set>
     </option>
   </component>
